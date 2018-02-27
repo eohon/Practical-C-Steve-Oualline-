@@ -29,7 +29,7 @@
  * Author: Panagiotidis Anastasios
  * December 2017
  * 
- * This exercise was taken from page 56 of:	
+ * This exercise was taken from page 98 of:	
  * Practical C Programming, by Steve Oualline
  * O'Reilly & Associates, Inc.	*/
 
