@@ -19,6 +19,13 @@
  * Anyone can use this piece of software anyway they     *
  * want.                                                 *
  *                                                       *
+ * Author: Panagiotidis Anastasios                       *
+ * February 2018                                         *
+ *                                                       *
+ * This exercise was taken from page 114 of:             *
+ * Practical C Programming, by Steve Oualline            *
+ * O'Reilly & Associates, Inc.	                         *
+ *                                                       *
  *********************************************************/
 int word_count(char string[])
 {       
