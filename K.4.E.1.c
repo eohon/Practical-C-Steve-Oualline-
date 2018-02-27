@@ -1,19 +1,19 @@
 #include <stdio.h>
 
-/**********************************************************	
+/**************************************************************	
  *	This is a very simple program that                    *
  *	converts Centigrade to Fahrenheit.                    *
  *	The user types in the degrees                         *
  *	in Centigrade and the program prints                  *
  *	the Fahrenheit equivalent on the screen (stdin).      *
- *                                                        *
+ *                                                            *
  *	Author: Panagiotidis Anastasios                       *
- *  December 2017                                         * 
- *							                              *
- *	This exercise was taken from page 56 of:	          *
- *	Practical C Programming, by Steve Oualline	          *
- *	O'Reilly & Associates, Inc.			                  *
- **********************************************************/
+ *      December 2017                                         * 
+ *							      *
+ *	This exercise was taken from page 56 of:	      *
+ *	Practical C Programming, by Steve Oualline	      *
+ *	O'Reilly & Associates, Inc.			      *
+ **************************************************************/
 
 
 char line[100]; /*An array to store the user's input.*/
