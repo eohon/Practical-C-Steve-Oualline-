@@ -19,7 +19,7 @@
 
 char line[100]; /* stores the input of the user */
 char operator; /* stores the 'q' if there is any */
-float number; /* stores the nunmber from the input */
+float number; /* stores the number from the input */
 float sum = 0; /* stores the sum of the numbers */
 float average; /* stores the average of the numbers */
 int count = 0; /* counts how many the numbers are */
